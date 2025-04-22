@@ -14,7 +14,7 @@ This repository is organized into two primary components for simulation studies:
 ## 2. Real World Data Result Analysis
 
 ### Analysis Scripts:
-- **`mes.py`**  
+- **`mse.py`**  
 
     Compute the MSE on the test data set
 

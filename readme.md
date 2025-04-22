@@ -8,9 +8,9 @@ Official implementation of the paper:
 ---
 ## Repository Structure
  
-- methods/ # Implementation of our two-step method and baselines
-- simulation/ # Code for simulation data experiments
-- empirical/ # Real-world data analysis
+- method/ # Implementation of our two-step method and baselines
+- simu/ # Code for simulation data experiments
+- empi/ # Real-world data analysis
 
 ---
 ## Basic Usage
