@@ -22,4 +22,4 @@
 #### Empirical Data Baselines  
 - **`compare_empi.py`**  
   Provides baseline methods for real-world data analysis, see empi directory.
-  - Uses nuclear norm penalty for rank estimation
+  - Uses nuclear norm penalty for matrix estimation
