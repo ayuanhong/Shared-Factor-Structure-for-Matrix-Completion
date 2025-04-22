@@ -7,16 +7,19 @@ Official implementation of the paper:
 
 ---
 ## Repository Structure
-.
-├── methods/ # Implementation of our two-step method and baselines
-│
-├── simulation/ # Code for synthetic data experiments
-│
-├── empirical/ # Real-world data analysis
+ 
+- methods/ # Implementation of our two-step method and baselines
+- simulation/ # Code for simulation data experiments
+- empirical/ # Real-world data analysis
 
 ---
 ## Basic Usage
-The two-step estimator is implemented in `methods/shfactor.py` through the `matest` class. 
+The two-step estimator is implemented in `method/shfactor.py` through the `matest` class. 
+
+---
+## License
+
+The [License](http://arxiv.org/licenses/nonexclusive-distrib/1.0/) is used to record the fact that the submitter granted the following license to arXiv.org on submission of an article:
 
 ---
 

@@ -22,5 +22,9 @@ This repository is organized into two primary components for simulation studies:
 
     Compute the Rank metric for all methods
 
+## The Real World Data
+
+Here we store the data from the MovieLens 100k [data](https://files.grouplens.org/datasets/movielens/ml-100k.zip) in the `data` directory.
+
 ## Data Storage
 The estimation results for each method on every data split are stored in  "1/", "2/", ... , "5/".
